@@ -1,0 +1,24 @@
+# will likely change 
+# Core libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Dashboard
+streamlit
+
+# Data handling
+openpyxl
+xlrd
+
+# Jupyter notebook support
+jupyter
+
+# (Optional)
+beautifulsoup4
+requests
+
+# (Optional)
+plotly
