@@ -1,5 +1,26 @@
-data/*
-!data/README.md
+# data
+data/
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# outputs
+outputs/
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+
+# notebooks checkpoints
 .ipynb_checkpoints/
-__pycache__/
-*.pyc
+
+# virtual environments
+venv/
+.env/
+
+# OS / IDE files
+.DS_Store
+*.swp
+*.swo
+
